@@ -1,0 +1,208 @@
+.global{
+	width: 215px;
+	height: 350px;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 50px;
+	border: 1px solid black
+}
+
+.zero{
+position: absolute;
+bottom: 0px;
+font-size: 40px;
+border: .5px solid black;
+border-radius: 300px;
+width: 100px;
+padding-right: 60px;
+
+
+}
+
+button:hover{
+background-color:red;
+transition-duration: .7s;
+cursor: pointer;
+}
+.one{
+	position: absolute;
+	bottom: 55px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.two{
+	position: absolute;
+	bottom: 55px;
+	left: 55px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.three{
+	position: absolute;
+	bottom: 55px;
+	left: 110px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.four {
+	position: absolute;
+	bottom: 110px;
+	left: 0px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.five {
+	position: absolute;
+	bottom: 110px;
+	left: 55px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.six {
+	position: absolute;
+	bottom: 110px;
+	left: 110px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.seven {
+	position: absolute;
+	bottom: 165px;
+	left: 0px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.eight {
+	position: absolute;
+	bottom: 165px;
+	left: 55px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.nine {
+	position: absolute;
+	bottom: 165px;
+	left: 110px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.share {
+	position: absolute;
+	bottom: 165px;
+	left: 165px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+}
+
+.multiply {
+	position: absolute;
+	bottom: 110px;
+	left: 165px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+
+	
+	
+}
+
+.minus{
+	position: absolute;
+	bottom: 55px;
+	left: 165px;
+	border: .5px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+.plus{
+position: absolute;
+bottom: 0px;
+left: 165px;
+font-size: 40px;
+border: .5px solid black;
+border-radius: 300px;
+width: 50px;
+height: 50px
+
+}
+
+.comma {
+position: absolute;
+bottom: 0px;
+left: 110px;
+font-size: 40px;
+border: .5px solid black;
+border-radius: 300px;
+width: 50px;
+height: 50px;
+
+}
+
+.equally {
+position: absolute;
+bottom: 220px;
+left: 0px;
+font-size: 40px;
+border: .5px solid black;
+border-radius: 300px;
+width: 215px;
+height: 50px;
+
+}
